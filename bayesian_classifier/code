@@ -65,7 +65,6 @@ def prob(mean, x, i, dcr):
 	return float(b/a)
 
 score = [0,0,0]	
-
 class1 = np.zeros((100,1))
 class2 = np.zeros((100,1))
 
