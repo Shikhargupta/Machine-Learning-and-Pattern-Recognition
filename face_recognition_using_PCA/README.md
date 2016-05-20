@@ -1,0 +1,1 @@
+ The pixel intensities of the 200 face images used for computing the KL Transform. By employing the method of eﬃcient computation of the basis vectors for high dimensional data, gigen values and corresponding eigen faces are calclated which can be used to reconstruct any face. We generally ignore the eigen faces corresponding to low eigen values to make computations faster.
