@@ -19,5 +19,5 @@ Original Image
 
 Segmented Image
 <p align="left">
-  <img src="segmented.png" width="250"/>
+  <img src="segmented.png" width="300"/>
 </p>
