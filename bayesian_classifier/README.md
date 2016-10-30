@@ -54,7 +54,7 @@ Class 2:
   <img src="test_characters/class_2/201.jpg" width="250"/>
 </p>
 
-Class 1:
+Class 3:
 <p align="center">
   <img src="test_characters/class_3/201.jpg" width="250"/>
 </p>
