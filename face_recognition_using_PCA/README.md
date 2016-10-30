@@ -15,7 +15,9 @@ Number of dimensions required to cover 95% of the variance : 110
 
 #### Reconstruction
 
-Two input images, given in .pgm format, were reconstructed using some or all of the eigen values.
+Two input images, given in .pgm format, were reconstructed using some or all of the eigen values. Here are the input images:
+
+<img src="images/face_input_1.png" width="100"/>         <img src="images/face_input_2.png" width="100"/>
 
 ##### Image 1
 Reconstruction using i) Top 1 ii) Top 15 iii) All eigen values
