@@ -13,35 +13,35 @@ The classifiers were trained with 200 images from each class and were tested upo
 #### Classifier 1
 Accuracy per class:
 
-Class 1 : 85%
+Class 1 : **85%**
 
-Class 2: 93%
+Class 2: **93%**
 
-Class 3: 100%
+Class 3: **100%**
 
-Average accuracy of the classifier: 92.66%
+Average accuracy of the classifier: **92.66%**
 
 #### Classifier 2
 Accuracy per class:
 
-Class 1 : 86%
+Class 1 : **86%**
 
-Class 2: 86%
+Class 2: **86%**
 
-Class 3: 100%
+Class 3: **100%**
 
-Average accuracy of the classifier: 90.66%
+Average accuracy of the classifier: **90.66%**
 
 #### Classifier 3
 Accuracy per class:
 
-Class 1 : 87%
+Class 1 : **87%**
 
-Class 2: 86%
+Class 2: **86%**
 
-Class 3: 100%
+Class 3: **100%**
 
-Average accuracy of the classifier: 91%
+Average accuracy of the classifier: **91%**
 
 ### Classes
 Class 1:
