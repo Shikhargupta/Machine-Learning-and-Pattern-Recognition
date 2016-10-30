@@ -1,3 +1,11 @@
-GMM based clustering framework on the image 'ski.jpg'. I have chosen three Gaussian components and used RGB values as the features.
+## Gaussian Mean Mixture
 
-I assumed some initial means and covariance matrices for the three Gaussians and then iterarted till convergence.
+A Gaussian Mixture Model (GMM) is a parametric probability density function represented as a weighted sum of Gaussian component densities. GMMs are commonly used as a parametric model of the probability distribution of continuous measurements or features. Here the GMM parameters are estimated from the training data using the iterative Expectation Maximization (EM) algorithm and RGB values are used as features.
+
+### Algorithm
+- Initialize all the gaussians (3 in this case) with their respective means, variances and mixing coefficients (weights). Each gaussian will represent one cluster.
+- Evaluate the reponsibilities using current parameters.
+- Re-estimate the parameters using current responsibilities.
+- Evaluate the log likelihood.
+- Check for convergence of either log likelihood or parameters.
+
