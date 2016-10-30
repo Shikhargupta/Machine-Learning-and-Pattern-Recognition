@@ -21,3 +21,8 @@ Segmented Image
 <p align="left">
   <img src="segmented.png" width="300"/>
 </p>
+
+Graph showing convergence of log likelihood value
+<p align="left">
+  <img src="graph.png" width="300"/>
+</p>
