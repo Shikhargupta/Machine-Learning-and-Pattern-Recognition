@@ -10,7 +10,7 @@ A Gaussian Mixture Model (GMM) is a parametric probability density function repr
 - Check for convergence of either log likelihood or parameters.
 
 ### Results
-The algorithm was iteratively applied on an image which resuksted in its segmentation.
+The algorithm was iteratively applied on an image which resulted in its segmentation.
 
 Original Image
 <p align="left">
