@@ -24,5 +24,5 @@ Segmented Image
 
 Graph showing convergence of log likelihood value
 <p align="left">
-  <img src="graph.png" width="350"/>
+  <img src="graph.png" width="400"/>
 </p>
