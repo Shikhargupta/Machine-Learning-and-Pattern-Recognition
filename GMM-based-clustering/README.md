@@ -1,4 +1,4 @@
-## Gaussian Mean Mixture
+## Gaussian Mixture Model
 
 A Gaussian Mixture Model (GMM) is a parametric probability density function represented as a weighted sum of Gaussian component densities. GMMs are commonly used as a parametric model of the probability distribution of continuous measurements or features. Here the GMM parameters are estimated from the training data using the iterative Expectation Maximization (EM) algorithm and RGB values are used as features.
 
